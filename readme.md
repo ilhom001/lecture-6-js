@@ -7,7 +7,7 @@
 ## 2)-юм  VALUES (ЗНАЧЕНИЯ)-хо мебошад мисол:
 ## METHOD (МЕТОД)- хои обект инхоянд
 #  object entries () 
-![( ./Снимок%20экрана%20(2)01.png"Image Title" )]
+![ Alt-text ]( ./Снимок%20экрана%20(2)01.png//example.com/ "Image Title" )
 #  object  keys () 
 ![ Alt-text ]( ./Снимок%20экрана%20(2)02.png"Image Title" )
 #  object  values ()
