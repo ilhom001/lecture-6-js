@@ -8,8 +8,10 @@
 ## METHOD (МЕТОД)- хои обект инхоянд
 #  object entries () 
 ![ Image ]( ./Снимок%20экрана%20(2)01.png)
+### object entries () ин метод ключ ва значенияи обектро ба массивхо чудо мекунад 
 #  object  keys () 
 ![ Image ]( ./Снимок%20экрана%20(2)02.png)
+### object  keys ()   
 #  object  values ()
 ![ Image ]( ./Снимок%20экрана%20(2)03.png)
 
